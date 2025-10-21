@@ -1,0 +1,4 @@
+Agent ID,Name,Status,Extension,Department,Total Calls,Avg Call Time
+AG001,Alice Johnson,Available,1001,Sales,15,245
+AG002,Bob Smith,Busy,1002,Support,8,312
+AG003,Carol Lee,Break,1003,Sales,12,198
